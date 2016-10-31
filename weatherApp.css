@@ -1,0 +1,85 @@
+
+body,
+html{
+  background-color: #D0D0D0;
+}
+
+.city {
+  font-size: 22pt;
+  position: absolute;
+  top: 100px;
+  left: 300px;
+}
+
+.temp {
+  font-size: 22pt;
+  position: absolute;
+  top: 100px;
+  left: 530px;
+}
+
+#icon {
+  
+  position: absolute;
+  left: 650px;
+  width: 50px;
+}
+
+#tempSwitchF {
+  position: absolute;
+  left: 572px;
+  top: 15px;
+}
+
+#tempSwitchC {
+  position: absolute;
+  left: 531px;
+  top: 15px;
+}
+
+.temp1 {
+  position: absoulute;
+  left: 520px;
+}
+
+.icon1 {
+  position: absoulute;
+  left: 550px;
+}
+
+.row1font {
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #888888;
+  color: ;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+footer {
+  position: absolute;
+  top: 530px;
+  bottom: 20px;
+  left: 200px;
+  text-align: center;
+  }
+
+.row6font {
+  color: black;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+.icon2 {
+  margin-right: 20px;
+  width: 50px;
+  }
+
+.frame {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  
+}
